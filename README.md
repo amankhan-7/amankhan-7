@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Aman Khan</h1>
 <h3 align="center">A passionate Software Engineer and MERN Stack Developer with a strong foundation in computer science. </h3>
 
-<img align="right" alt="coding" width="400" height="270" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzcwb3hnNDgyejM0bnZ6bjhuMXloaXZpdmFoMndkeGd4cGJtYjFsZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="coding" width="400" height="267" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzcwb3hnNDgyejM0bnZ6bjhuMXloaXZpdmFoMndkeGd4cGJtYjFsZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amankhan-7&label=Profile%20views&color=0e75b6&style=flat" alt="amankhan-7" /> </p>
 
