@@ -1,4 +1,4 @@
-![MasterHead](https://media.licdn.com/dms/image/v2/C4D16AQFVhjfrmMfyfA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1648996422884?e=1738800000&v=beta&t=IrS_RC9bRZ9sYCDDJ5Z1sXxxDZXc_ywvQYHSpH74YXE)
+![MasterHead](https://media.licdn.com/dms/image/v2/C4D16AQFVhjfrmMfyfA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1648996422884?e=1752105600&v=beta&t=NP_qp0AgiudAnuf3T7e2iZv_Iea_Ey5QXartvievKo4)
 <h1 align="center">Hi 👋, I'm Aman Khan</h1>
 <h3 align="center">A passionate Software Engineer and MERN Stack Developer with a strong foundation in computer science. </h3>
 
