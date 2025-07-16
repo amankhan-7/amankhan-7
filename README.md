@@ -1,6 +1,6 @@
 <!-- Masterhead Banner -->
 <img 
-  src="https://img.freepik.com/free-vector/gradient-business-linkedin-banner_23-2150091566.jpg?semt=ais_hybrid&w=740" 
+  src="https://img.freepik.com/premium-photo/laptop-typing-blue-desk_343170-19201.jpg" 
   alt="MasterHead"
   style="width:100%; height:auto; border-radius:10px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);" 
 />
