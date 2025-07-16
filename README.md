@@ -1,4 +1,9 @@
-![MasterHead](https://img.freepik.com/free-vector/gradient-business-linkedin-banner_23-2150091566.jpg?semt=ais_hybrid&w=740)
+<img 
+  src="https://img.freepik.com/free-vector/gradient-business-linkedin-banner_23-2150091566.jpg?semt=ais_hybrid&w=740" 
+  alt="MasterHead"
+  style="width:100%; height:auto; border-radius:10px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);" 
+/>
+
 <h1 align="center">Hi 👋, I'm Aman Khan</h1>
 <h3 align="center">A passionate Software Engineer and MERN Stack Developer with a strong foundation in computer science. </h3>
 
