@@ -1,9 +1,11 @@
 <!-- Masterhead Banner -->
-<img 
-  src="https://img.freepik.com/premium-photo/laptop-typing-blue-desk_343170-19201.jpg" 
-  alt="MasterHead"
-  style="width:100%; height:auto; border-radius:10px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);" 
-/>
+<div style="position: relative; width: 100%;">
+  <img src="https://img.freepik.com/premium-photo/laptop-typing-blue-desk_343170-19201.jpg" style="width:100%; border-radius:10px;" />
+  <h1 style="position: absolute; top: 20px; left: 20px; color: white;">
+    linkedin.com/in/amankhan7
+  </h1>
+</div>
+
 
 <!-- Introduction -->
 <h1 align="center" style="font-family: 'Segoe UI', sans-serif; color: #2c3e50;">
