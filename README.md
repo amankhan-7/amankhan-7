@@ -1,9 +1,22 @@
-<!-- Masterhead Banner -->
-<div style="position: relative; width: 100%;">
-  <img src="https://img.freepik.com/premium-photo/laptop-typing-blue-desk_343170-19201.jpg" style="width:100%; border-radius:10px;" />
-  <h1 style="position: absolute; top: 20px; left: 20px; color: white;">
-    linkedin.com/in/amankhan7
-  </h1>
+<!-- Container with positioned text -->
+<div style="position: relative; display: inline-block; width: 100%;">
+  <img 
+    src="https://img.freepik.com/premium-photo/laptop-typing-blue-desk_343170-19201.jpg" 
+    alt="MasterHead"
+    style="width: 100%; border-radius: 10px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);" 
+  />
+  <p style="
+    position: absolute;
+    bottom: 20px;
+    left: 30px;
+    color: white;
+    font-size: 24px;
+    font-weight: bold;
+    text-shadow: 1px 1px 4px rgba(0,0,0,0.7);
+    margin: 0;
+  ">
+    @mannkhan7
+  </p>
 </div>
 
 
