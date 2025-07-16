@@ -1,23 +1,31 @@
-<!-- Container with positioned text -->
-<div style="position: relative; display: inline-block; width: 100%;">
+<!-- Container for image + overlay text -->
+<div style="position: relative; display: inline-block; width: 100%; max-width: 800px; border-radius: 10px; overflow: hidden; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);">
+
+  <!-- The Image -->
   <img 
     src="https://img.freepik.com/premium-photo/laptop-typing-blue-desk_343170-19201.jpg" 
     alt="MasterHead"
-    style="width: 100%; border-radius: 10px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);" 
+    style="width: 100%; height: auto; display: block;"
   />
+
+  <!-- The Overlay Text -->
   <p style="
     position: absolute;
     bottom: 20px;
     left: 30px;
-    color: white;
-    font-size: 24px;
-    font-weight: bold;
-    text-shadow: 1px 1px 4px rgba(0,0,0,0.7);
     margin: 0;
+    padding: 10px 20px;
+    background: rgba(0, 0, 0, 0.5); 
+    color: #ffffff;
+    font-size: 20px;
+    font-weight: 600;
+    border-radius: 5px;
   ">
-    @mannkhan7
+  @amankhan7
   </p>
+
 </div>
+
 
 
 <!-- Introduction -->
