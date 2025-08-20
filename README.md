@@ -1,75 +1,50 @@
-<!-- Container for image + overlay text -->
-<div style="position: relative; display: inline-block; width: 100%; max-width: 800px; border-radius: 10px; overflow: hidden; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);">
-
-  <!-- The Image -->
-  <img 
-    src="https://img.freepik.com/premium-photo/laptop-typing-blue-desk_343170-19201.jpg" 
-    alt="MasterHead"
-    style="width: 100%; height: auto; display: block;"
-  />
-
-  <!-- The Overlay Text -->
-  <p style="
-    position: absolute;
-    bottom: 20px;
-    left: 30px;
-    margin: 0;
-    padding: 10px 20px;
-    background: rgba(0, 0, 0, 0.5); 
-    color: #ffffff;
-    font-size: 20px;
-    font-weight: 600;
-    border-radius: 5px;
-  ">
-  @amankhan7
-  </p>
-
-</div>
-
-
-
-<!-- Introduction -->
-<h1 align="center" style="font-family: 'Segoe UI', sans-serif; color: #2c3e50;">
-  Hi, I'm Aman Khan
-</h1>
-<h3 align="center" style="font-weight: 400; color: #34495e;">
-  A passionate Software Engineer and MERN Stack Developer with a strong foundation in computer science.
-</h3>
-
-<!-- GIF -->
-<img align="right" alt="coding" width="400" height="267" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzcwb3hnNDgyejM0bnZ6bjhuMXloaXZpdmFoMndkeGd4cGJtYjFsZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
-
-<!-- Profile Views -->
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=amankhan-7&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+<p align="center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=000000&fontColor=FF0000&text=Welcome!&fontSize=90&animation=twinkling&fontAlignY=30&desc=I'm%20Aman%20Khan%20👨‍💻&descSize=30" />
 </p>
 
-<!-- Twitter Badge -->
-<p align="left">
-  <a href="https://twitter.com/4mankhan" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/4mankhan?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
-  </a>
+[![trophy center](https://github-profile-trophy.vercel.app/?username=amankhan-7&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+- 🌱 **Currently learning:** Next.js & System Design  
+- 💬 **Ask me about:** MERN stack development  
+- 📫 **Contact me at:** [amankhan280401@gmail.com](mailto:amankhan280401@gmail.com)  
+- 😄 **Pronouns:** He/Him  
+- ⚡ **Fun fact:** I think my humor is top-tier 😄  
+
+---
+
+## 📊 Streaks, Stats and Activity:
+
+<p align="center">
+    <!-- Github Stats -->
+    <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=amankhan-7&hide_border=true&title_color=FFFFFF&show_icons=true&icon_color=FF0000&ring_color=FF0000&bg_color=000000&text_color=FFFFFF" />
+    <!-- Streaks Stats -->
+    <img align="center" width="400" src="https://streak-stats.demolab.com/?user=amankhan-7&theme=highcontrast&currStreakNum=FF0000&card_height=205&ring=FF0000&fire=FF0000&border=000000&currStreakLabel=FF0000" />
+    <br/>
+    <!-- Activity Graph -->
+    <img width="805" src="https://github-readme-activity-graph.vercel.app/graph?username=amankhan-7&bg_color=000000&color=FF0000&line=FF0000&point=FF0000&area=true&hide_border=true" />
+    <!-- Most Used Language -->
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amankhan-7&langs_count=12&&size_weight=0.4&count_weight=0.6&layout=pie&text_color=FFFFFF&bg_color=000000&card_width=805&hide_border=true&title_color=FF0000" /> 
+    <br/>
+    <sub><sup>size weight of files is taken as 0.4 and count weight is taken as 0.6</sup></sub>
+    <br/>
+    <p align="center">
+      <img src="https://komarev.com/ghpvc/?username=amankhan-7&style=for-the-badge&color=grey" alt="Profile Views"/>
+    </p>
 </p>
 
-<!-- About Section -->
-<ul style="font-size: 16px;">
-  <li><strong>🔭 Currently working on:</strong> Generative AI</li>
-  <li><strong>🌱 Currently learning:</strong> Redux Tool Kit</li>
-  <li><strong>💬 Ask me about:</strong> MERN stack development</li>
-  <li><strong>📫 Contact me at:</strong> amankhan280401@gmail.com</li>
-  <li><strong>⚡ Fun fact:</strong> I have a great sense of humor (at least I think so!)</li>
-</ul>
+---
 
-<!-- GitHub Trophy -->
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=amankhan-7" alt="GitHub Trophy" />
-  </a>
+## 🛠️ Languages and Tools:
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,redux,git,github,vscode,html,css,tailwind,figma" />
 </p>
 
-<!-- Connect With Me -->
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+---
+
+## 📫 Connect with me:
+<p align="center">
   <a href="https://twitter.com/4mankhan" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="30" height="30" alt="Twitter" /></a>
   <a href="https://linkedin.com/in/amankhan7" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="30" height="30" alt="LinkedIn" /></a>
   <a href="https://instagram.com/4man.khan" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="30" height="30" alt="Instagram" /></a>
@@ -78,18 +53,10 @@
   <a href="https://auth.geeksforgeeks.org/user/amankhanv3ad" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" width="30" height="30" alt="GeeksforGeeks" /></a>
 </p>
 
-<!-- Tools & Languages -->
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <!-- Keep your existing logos here as they are well-organized -->
-  <!-- No changes to this block -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=amankhan-7&style=for-the-badge&color=grey" alt="Profile Views"/>
 </p>
 
-<!-- GitHub Stats -->
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amankhan-7&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
+---
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=amankhan-7&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
+⭐️ From [Aman Khan](https://github.com/am)
