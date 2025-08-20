@@ -41,7 +41,7 @@
 
 ## 🛠️ Languages and Tools:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,redux,git,github,vscode,html,css,tailwind,figma" />
+  <img src="https://skillicons.dev/icons?i=js,react,nextjs,nodejs,express,mongodb,redux,git,github,vscode,html,css,tailwind,figma" />
 </p>
 
 ---
@@ -59,4 +59,4 @@
 
 ---
 
-⭐️ From [Aman Khan](https://github.com/am)
+⭐️ From [Aman Khan](https://github.com/amankhan-7)
