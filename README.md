@@ -1,6 +1,9 @@
 <p align="center">
     <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=000000&fontColor=FF0000&text=Welcome!&fontSize=90&animation=twinkling&fontAlignY=30&desc=I'm%20Aman%20Khan%20👨‍💻&descSize=30" />
 </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=amankhan-7&style=for-the-badge&color=grey" alt="Profile Views"/>
+</p>
 
 [![trophy center](https://github-profile-trophy.vercel.app/?username=amankhan-7&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
@@ -53,9 +56,6 @@
   <a href="https://auth.geeksforgeeks.org/user/amankhanv3ad" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" width="30" height="30" alt="GeeksforGeeks" /></a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=amankhan-7&style=for-the-badge&color=grey" alt="Profile Views"/>
-</p>
 
 ---
 
